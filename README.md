@@ -14,9 +14,9 @@ Actual time needed to complete: **3 hours**
 ========
 
 
-Number and name of feature: ________________________________
+Number and name of feature: Filter Images
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hours
 
 Start time: _____
 
